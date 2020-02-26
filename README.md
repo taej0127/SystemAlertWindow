@@ -69,6 +69,7 @@ Displays as a notification in the notification center [Help Needed]
           footer: footer,
           margin: SystemWindowMargin(left: 8, right: 8, top: 100, bottom: 0),
           gravity: SystemWindowGravity.TOP);
+      )
           
 ### Register for onClick events (like button click)
 
